@@ -1,13 +1,13 @@
 {
   "roller": [
-    { "id": 1, "name": "lemon" },
-    { "id": 2, "name": "watermelon" },
-    { "id": 3, "name": "grape" },
-    { "id": 4, "name": "plum" },
-    { "id": 5, "name": "orange" },
-    { "id": 6, "name": "cherry" },
-    { "id": 7, "name": "seven" },
-    { "id": 8, "name": "star" },
-    { "id": 9, "name": "redstar" }
+    { "id": 1, "name": "lemon", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/lemon.png"},
+    { "id": 2, "name": "watermelon", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/watermelon.png" },
+    { "id": 3, "name": "grape", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/grapes.png" },
+    { "id": 4, "name": "plum", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/plum.png" },
+    { "id": 5, "name": "orange", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/orange.png" },
+    { "id": 6, "name": "cherry", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/cherries.png" },
+    { "id": 7, "name": "seven", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/seven.png" },
+    { "id": 8, "name": "star", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/star.png" },
+    { "id": 9, "name": "redstar", "src":"https://raw.githubusercontent.com/Belkacz/cassino-server/main/img/angry.png" }
   ]
 }
